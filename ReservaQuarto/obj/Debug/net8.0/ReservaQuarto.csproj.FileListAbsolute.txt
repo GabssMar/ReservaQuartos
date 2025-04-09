@@ -1,0 +1,14 @@
+C:\Users\gabim\source\repos\ReservaQuarto\ReservaQuarto\obj\Debug\net8.0\ReservaQuarto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabim\source\repos\ReservaQuarto\ReservaQuarto\obj\Debug\net8.0\ReservaQuarto.AssemblyInfoInputs.cache
+C:\Users\gabim\source\repos\ReservaQuarto\ReservaQuarto\obj\Debug\net8.0\ReservaQuarto.AssemblyInfo.cs
+C:\Users\gabim\source\repos\ReservaQuarto\ReservaQuarto\obj\Debug\net8.0\ReservaQuarto.csproj.CoreCompileInputs.cache
+C:\Users\gabim\source\repos\ReservaQuarto\ReservaQuarto\bin\Debug\net8.0\ReservaQuarto.exe
+C:\Users\gabim\source\repos\ReservaQuarto\ReservaQuarto\bin\Debug\net8.0\ReservaQuarto.deps.json
+C:\Users\gabim\source\repos\ReservaQuarto\ReservaQuarto\bin\Debug\net8.0\ReservaQuarto.runtimeconfig.json
+C:\Users\gabim\source\repos\ReservaQuarto\ReservaQuarto\bin\Debug\net8.0\ReservaQuarto.dll
+C:\Users\gabim\source\repos\ReservaQuarto\ReservaQuarto\bin\Debug\net8.0\ReservaQuarto.pdb
+C:\Users\gabim\source\repos\ReservaQuarto\ReservaQuarto\obj\Debug\net8.0\ReservaQuarto.dll
+C:\Users\gabim\source\repos\ReservaQuarto\ReservaQuarto\obj\Debug\net8.0\refint\ReservaQuarto.dll
+C:\Users\gabim\source\repos\ReservaQuarto\ReservaQuarto\obj\Debug\net8.0\ReservaQuarto.pdb
+C:\Users\gabim\source\repos\ReservaQuarto\ReservaQuarto\obj\Debug\net8.0\ReservaQuarto.genruntimeconfig.cache
+C:\Users\gabim\source\repos\ReservaQuarto\ReservaQuarto\obj\Debug\net8.0\ref\ReservaQuarto.dll
